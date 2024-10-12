@@ -1,4 +1,4 @@
- # My Portfolio Website
+ # Developer Portfolio Website 🌐✨
 
 Welcome to my personal portfolio! This site showcases my skills, projects, and professional experience. It features a color theme switcher with five different color options, a dark/light mode toggle, and a responsive design. You can also get in touch with me through a contact form powered by Formspree.
 
