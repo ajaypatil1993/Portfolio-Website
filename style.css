@@ -852,6 +852,10 @@ h3.my-profession {
   padding: 0 50px;
 }
 
+
+
+
+
 /* Responsive Adjustments */
 
 @media (max-width: 1199px) {
@@ -876,10 +880,12 @@ h3.my-profession {
 
   .section {
     left: 0;
+  
   }
 
   .main-content {
     padding-left: 0;
+    
   }
 
   /* Home section */
@@ -887,11 +893,9 @@ h3.my-profession {
   .home .home-info {
     flex: 0 0 100%;
     max-width: 100%;
-    margin-top: 60px;
+    margin-top: 40px;
   }
-  .home .home-info p{
-    margin-top: 20px;
-  }
+
   .home .home-img img {
     height: 300px;
     margin: 10px 40px;
